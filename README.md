@@ -8,7 +8,7 @@ Files in the Repository
 ## Data Cleaning and Preparation
 In the [Project Dataset.xlsx](https://github.com/Shanawazuddin/Bike-Sales-Dashboard/blob/main/Excel%20Project%20Dashboard.xlsx), the following data cleaning steps were performed:
 
-•	Removal of Duplicates: Ensured that there were no duplicate entries in the dataset to maintain data accuracy.
+•	Removal of Duplicates : Ensured that there were no duplicate entries in the dataset to maintain data accuracy.
 
 •	Handling Missing Values: Missing or incomplete values were addressed by either removing rows with insufficient data or filling gaps where applicable.
 
