@@ -56,24 +56,31 @@ The dashboard was built to provide an intuitive and interactive experience for a
 This Excel dashboard is designed to answer key business questions, such as:
 
 1. What income segments have the highest likelihood of purchasing bikes?
+
 Answer: Males with an income average of approximately $60,124 are more likely to make a purchase compared to females, who have an average income of $55,774. This insight can help target marketing campaigns towards higher-income male segments.
 
 2. How does age affect bike purchasing behavior?
+
 Answer: Middle-aged customers are the most likely age group to purchase bikes, as shown by the peak in the "Customer Age Bracket" chart. This indicates that marketing efforts could focus on middle-aged demographics to maximize conversions.
 
 3. How does commuting distance impact the likelihood of purchasing a bike?
+
 Answer: The "Customer Commute" chart shows that people commuting 0-1 miles and 1-2 miles have a higher purchase rate than those with longer commutes. This suggests that bikes are more appealing to customers with shorter commutes, which could guide promotional strategies for urban or local markets.
 
 4. Which regions show the highest customer engagement and bike sales?
+
 Answer: The "Region" filter includes Europe, North America, and Pacific regions. Filtering sales data by region could reveal valuable insights for regional marketing and inventory distribution.
 
 5. How does education level impact purchasing behavior?
+
 Answer: The "Education" filter allows for an analysis of purchasing trends based on education levels such as Graduate Degree, High School, and Partial College. This segmentation could help in designing educationally targeted campaigns to increase sales among specific educational demographics.
 
 6. Does marital status affect bike purchases?
+
 Answer: The "Marital Status" filter allows us to examine if married or single customers are more likely to purchase bikes. Understanding this could help in crafting tailored marketing messages that resonate with each demographic group.
 
 7. How can this data help optimize inventory management?
+
 Answer: By analyzing purchase patterns based on commute distance, age, income, and region, the company can optimize its inventory to align with demand. For example, focusing inventory on urban locations with more short-distance commuters could reduce overstocking and improve customer satisfaction.
 
 ## Conclusion:
