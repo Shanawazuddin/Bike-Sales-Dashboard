@@ -14,3 +14,12 @@ In the [Project Dataset.xlsx](https://github.com/Shanawazuddin/Bike-Sales-Dashbo
 
 •	Reformatting Data: Standardized date formats, product names, and customer IDs to ensure consistency across the dataset.
 
+## Formulas Used
+Several Excel formulas were applied to derive key insights from the data:
+
+•	SUMIFS: Used to calculate total sales by specific criteria such as gender, region, and product type.
+•	AVERAGEIFS: Applied to find the average income per purchase, filtered by customer segments.
+•	VLOOKUP/XLOOKUP: Utilized to search and cross-reference data from different tables.
+•	COUNTIF: Employed to count occurrences of specific data points such as number of purchases made by each customer.
+•	IFERROR: Integrated to handle errors resulting from calculations or missing data during analysis.
+
