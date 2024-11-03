@@ -5,6 +5,10 @@ Files in the Repository
 1.	Excel Project Dataset.xlsx: [The raw dataset file that contains the unprocessed sales and customer data.](https://github.com/Shanawazuddin/Bike-Sales-Dashboard/blob/main/Excel%20Raw%20Dataset.xlsx)
 2.	Excel Project Dashboard.xlsx: [The processed and analyzed data presented in the form of an interactive Excel dashboard.](https://github.com/Shanawazuddin/Bike-Sales-Dashboard/blob/main/Excel%20Project%20Dashboard.xlsx)
 
+## Dashboard 
+![Dashboard Screenshot](https://github.com/user-attachments/assets/f281853b-fd96-4f69-844f-13822f64b37c)
+
+
 ## Data Cleaning and Preparation
 In the [Project Dataset.xlsx](https://github.com/Shanawazuddin/Bike-Sales-Dashboard/blob/main/Excel%20Project%20Dashboard.xlsx), the following data cleaning steps were performed:
 
