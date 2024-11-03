@@ -1,2 +1,7 @@
-# Bike-Sales-Dashboard
-Bike Sales Dashboard providing insights into customer demographics and purchasing patterns. Analyze age, income, commute distance, and regional data to optimize marketing and inventory strategies in the bike industry. Perfect for data-driven decision-making and customer segmentation.
+# Excel Sales Data Analysis Dashboard
+# Project Overview
+This project involves analyzing sales data to uncover insights related to customer demographics, purchase patterns, and overall sales performance. The project was done using Microsoft Excel, with a focus on cleaning data, applying formulas for analysis, and visualizing insights through a dynamic dashboard.
+Files in the Repository
+1.	Excel Project Dataset.xlsx: The raw dataset file that contains the unprocessed sales and customer data.
+2.	Excel Project Dashboard.xlsx: The processed and analyzed data presented in the form of an interactive Excel dashboard.
+
