@@ -94,7 +94,7 @@ I recently developed a comprehensive Bike Sales Dashboard to analyze customer de
 
 5️⃣ Geographic Segmentation: By applying region-based filters, the dashboard can help reveal which regions have the highest engagement, allowing for better inventory distribution and location-specific marketing.
 
-How to Use the Dashboard
+## How to Use the Dashboard
 
 1.	Open the [Excel Project Dashboard.xlsx](https://github.com/Shanawazuddin/Bike-Sales-Dashboard/blob/main/Excel%20Project%20Dashboard.xlsx) file in Microsoft Excel.
 
