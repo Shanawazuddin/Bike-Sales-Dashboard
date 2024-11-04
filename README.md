@@ -3,14 +3,14 @@
 This project involves analyzing sales data to uncover insights related to customer demographics, purchase patterns, and overall sales performance. The project was done using Microsoft Excel, with a focus on cleaning data, applying formulas for analysis, and visualizing insights through a dynamic dashboard.
 Files in the Repository
 1.	Excel Project Dataset.xlsx: [The raw dataset file that contains the unprocessed sales and customer data.](https://github.com/Shanawazuddin/Bike-Sales-Dashboard/blob/main/Excel%20Raw%20Dataset.xlsx)
-2.	Excel Project Dashboard.xlsx: [The processed and analyzed data presented in the form of an interactive Excel dashboard.](https://github.com/Shanawazuddin/Bike-Sales-Dashboard/blob/main/Excel%20Project%20Dashboard.xlsx)
+2.	Excel Project Dashboard.xlsx: [[The processed and analyzed data presented in the form of an interactive Excel dashboard.](https://github.com/Shanawazuddin/Bike-Sales-Project/blob/main/Excel%20Project%20Dashboard.xlsx)
 
 ## Dashboard 
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/f281853b-fd96-4f69-844f-13822f64b37c)
 
 
 ## Data Cleaning and Preparation
-In the [Project Dataset.xlsx](https://github.com/Shanawazuddin/Bike-Sales-Dashboard/blob/main/Excel%20Project%20Dashboard.xlsx), the following data cleaning steps were performed:
+In the [[Project Dataset.xlsx](https://github.com/Shanawazuddin/Bike-Sales-Project/blob/main/Excel%20Project%20Dashboard.xlsx), the following data cleaning steps were performed:
 
 •	Removal of Duplicates : Ensured that there were no duplicate entries in the dataset to maintain data accuracy.
 
@@ -107,7 +107,7 @@ I recently developed a comprehensive Bike Sales Dashboard to analyze customer de
 
 ## How to Use the Dashboard
 
-1.	Open the [Excel Project Dashboard.xlsx](https://github.com/Shanawazuddin/Bike-Sales-Dashboard/blob/main/Excel%20Project%20Dashboard.xlsx) file in Microsoft Excel.
+1.	Open the [[Excel Project Dashboard.xlsx](https://github.com/Shanawazuddin/Bike-Sales-Project/blob/main/Excel%20Project%20Dashboard.xlsx) file in Microsoft Excel.
 
 2.	Navigate through the dashboard tabs to explore the visualizations and data insights.
 
